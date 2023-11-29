@@ -1,0 +1,160 @@
+User stories for a carpooling system from the perspective of a driver:
+
+1. As a driver, I want to create a profile with my vehicle details, so that potential passengers can see information about my car before requesting a ride.
+
+2. As a driver, I want to set my availability and schedule in the app, so that I can plan my carpooling trips in advance.
+
+3. As a driver, I want to receive ride requests with details about the potential passengers, their pick-up and drop-off locations, and the estimated fare, so that I can make informed decisions about accepting rides.
+
+4. As a driver, I want to have the option to review the ratings and feedback of potential passengers before accepting a ride, so that I can ensure a positive experience.
+
+5. As a driver, I want to be able to set preferences for the gender or number of passengers I am willing to accept, so that I can feel more comfortable and in control of my carpooling experience.
+
+//6. As a driver, I want the app to provide real-time navigation and traffic information to optimize the route and ETA, so that I can efficiently pick up and drop off passengers.
+
+7. As a driver, I want to have the flexibility to communicate with passengers through the app's messaging system, so that I can coordinate pick-up details and inform them about any delays.
+
+8. As a driver, I want the app to automatically calculate and handle the fare based on factors like distance, time, and the number of passengers, so that the payment process is transparent and convenient.
+
+9. As a driver, I want to have the option to split the fare among passengers, so that the cost is shared fairly.
+
+10. As a driver, I want to receive notifications about potential passengers who are nearby and looking for a ride, so that I can proactively offer carpooling services.
+
+11. As a driver, I want the app to provide a secure and reliable payment system, so that I can receive payment from passengers without concerns about fraud or payment issues.
+
+12. As a driver, I want to be able to rate and provide feedback about passengers after each trip, so that I can contribute to building a trustworthy carpooling community.
+
+13. As a driver, I want the app to provide information about the destination and any specific instructions from passengers, so that I can plan the drop-off accordingly.
+
+14. As a driver, I want to have access to customer support through the app in case of any issues or emergencies during a carpooling trip.
+
+15. As a driver, I want the app to keep track of my earnings and provide detailed summaries for accounting purposes, so that I can easily manage my finances related to carpooling.
+
+These user stories cover various aspects of the carpooling experience for a driver, ensuring a seamless and user-friendly interaction with the carpooling system.
+
+
+
+As a driver, I want to be able to register on the Blablabla Carpooling System, so that I can offer rides and participate in the carpooling community.
+
+As a driver, I want to create a carpooling listing by specifying my starting point, destination, and preferred route, so that potential passengers can easily find and join my carpool.
+
+As a driver, I want to set the number of available seats in my car and specify any preferences or requirements for passengers, so that I can efficiently match with compatible riders.
+
+As a driver, I want to receive notifications or alerts when potential passengers request to join my carpool, so that I can review and confirm their requests in a timely manner.
+
+As a driver, I want to view the profiles and ratings of potential passengers, so that I can make informed decisions about who I share my ride with.
+
+As a driver, I want the option to communicate with passengers through the Blablabla Carpooling System to discuss details like pickup points, schedule adjustments, or any other relevant information.
+
+As a driver, I want a feature that allows me to set a fair contribution or fee for passengers, taking into account factors such as distance, fuel costs, and tolls.
+
+As a driver, I want to be able to track and manage my upcoming and past carpools, including reviewing previous passengers and ratings, to ensure a positive carpooling experience.
+
+As a driver, I want the flexibility to update my carpooling availability and schedule, so that I can easily adapt to changes in my own plans or preferences.
+
+As a driver, I want to receive feedback and ratings from passengers after each carpool, allowing me to build a positive reputation within the Blablabla Carpooling community.
+
+
+
+// as a passenger
+
+
+1. *As a passenger, I want to register on the SwiftRide Carpooling System, so that I can find and join carpools for my daily commute or occasional trips.*
+
+2. *As a passenger, I want to search for available carpools based on my desired route, destination, and schedule, so that I can find rides that suit my needs.*
+
+3. *As a passenger, I want to view detailed profiles of drivers, including their ratings, car details, and any preferences or requirements they have set, so that I can make informed decisions about the carpool.*
+
+4. *As a passenger, I want to request to join a specific carpool, providing details such as my pickup location and any additional information the driver may need, so that I can secure a seat in the carpool.*
+
+5. *As a passenger, I want to receive notifications or alerts when the driver accepts or declines my request to join a carpool, so that I can plan my commute accordingly.*
+
+6. *As a passenger, I want to communicate with the driver through the Blabla Carpooling System to discuss details such as pickup points, any special requests, or changes in schedule.*
+
+7. *As a passenger, I want to be able to see the estimated cost of the carpool and the contribution or fee set by the driver, so that I can plan my budget accordingly.*
+
+8. *As a passenger, I want the ability to cancel my request to join a carpool if my plans change, and I want to be notified of any cancellations or changes made by the driver.*
+
+9. *As a passenger, I want to be able to provide feedback and ratings for the driver after the carpool, to contribute to the Blabla Carpooling community and help others make informed decisions.*
+
+10. *As a passenger, I want the option to save favorite routes and preferred drivers, so that I can quickly find and join carpools that I frequently use.
+
+
+
+
+
+
+/////11. *As a passenger, I want to see real-time updates on the status of the carpool, including the driver's current location and estimated time of arrival, so that I can plan my schedule accordingly.*
+
+/////12. *As a passenger, I want the option to join carpooling groups or communities with shared interests or common routes, making it easier to find and connect with like-minded commuters.*
+
+13. *As a passenger, I want to have multiple payment options available within the Blabla Carpooling System secure method, to make the transaction process convenient and flexible.*
+
+14. *As a passenger, I want the ability to rate and provide feedback not only for the driver but also for the overall carpooling experience, including factors like cleanliness, punctuality, and communication.*
+
+/////15. *As a passenger, I want to receive notifications about available discounts, promotions, or loyalty programs within the Blabla Carpooling System, encouraging me to use the service regularly.*
+
+/////16. *As a passenger, I want the option to share my own carpooling experiences on social media or within the Blabla Carpooling community, helping to promote positive interactions and build trust among users.*
+
+17. *As a passenger, I want a feature that allows me to specify any preferences or requirements for the carpool, such as a non-smoking vehicle or a pet-friendly ride, ensuring a comfortable and enjoyable experience.*
+
+18. *As a passenger, I want to have access to a customer support system within the Blabla Carpooling platform, where I can quickly resolve any issues, report concerns, or seek assistance when needed.*
+
+19. *As a passenger, I want to be able to view the history of my past carpools, including details like routes taken, drivers used, and costs incurred, for personal record-keeping and reference.*
+
+20. *As a passenger, I want to have the option to set up recurring carpools for my daily commute, allowing me to easily find and join rides with the same driver on a consistent basis.*
+
+
+
+//////21. *As a passenger, I want to have the ability to share my location with friends or family members while I'm on a carpool, providing an added layer of safety and security.*
+
+22. *As a passenger, I want the option to filter and search for carpools based on specific criteria, such as car amenities (e.g., air conditioning, Wi-Fi), to find rides that align with my preferences.*
+
+23. *As a passenger, I want the ability to book a seat in advance for popular routes or during peak hours, ensuring that I have a guaranteed spot in the carpool.*
+
+24. *As a passenger, I want to receive reminders and notifications about upcoming carpools, helping me stay organized and ensuring that I don't miss a scheduled ride.*
+
+//////25. *As a passenger, I want the option to connect with other passengers who may be sharing the same carpool, fostering a sense of community and encouraging social interactions during the ride.*
+
+//////26. *As a passenger, I want to be able to access a dynamic pricing model that takes into account factors like demand, traffic conditions, and time of day, ensuring fair and competitive pricing for carpools.*
+
+//////27. *As a passenger, I want the ability to track my carbon footprint or environmental impact by using the carpooling service, promoting sustainability and eco-friendly transportation choices.*
+
+28. *As a passenger, I want to have the option to schedule recurring or one-time notifications for specific carpools or routes, allowing me to plan my rides in advance.*
+
+//////29. *As a passenger, I want to be able to provide special instructions or notes to the driver, such as specific pickup locations or any mobility assistance requirements, ensuring a smooth and efficient carpooling experience.*
+
+30. *As a passenger, I want the flexibility to request last-minute carpools or spontaneous rides, accommodating unexpected changes in my schedule or transportation needs.*
+
+
+////   BUS USER STORIES
+
+1. *As a passenger, I want to register on the Blabla Bus Trip Pooling System, so that I can discover and join bus trips that align with my travel needs.*
+
+2. *As a passenger, I want to search for available bus trips based on my desired route, departure and arrival times, and any specific amenities offered on the bus.*
+
+3. *As a passenger, I want to view detailed information about each bus trip, including the route map, estimated duration, and any stops along the way, to make an informed decision before joining.*
+
+4. *As a passenger, I want to be able to reserve a seat on a specific bus trip, providing details such as my pickup location and any preferences or requirements I may have.*
+
+5. *As a passenger, I want to receive notifications or alerts when my reservation is confirmed, providing me with the necessary details for the trip, including departure time and pickup location.*
+
+/////6. *As a passenger, I want to communicate with other passengers on the same bus trip through the Blabla Bus Trip Pooling System, fostering a sense of community and allowing for coordination.*
+
+7. *As a passenger, I want to have the option to rate and provide feedback on the bus trip, including factors such as punctuality, comfort, and overall experience, to help other users and improve the service.*
+
+/////8. *As a passenger, I want to see real-time updates on the status of the bus trip, including the current location of the bus and estimated time of arrival at each stop, to plan my journey effectively.*
+
+9. *As a passenger, I want the flexibility to cancel my reservation if my plans change, and I want to be notified of any changes or cancellations made by the bus operator.*
+
+10. *As a passenger, I want to have access to customer support within the Blabla Bus Trip Pooling System, allowing me to address any issues, seek assistance, or report concerns during my journey.*
+
+11. *As a passenger, I want to be able to view the history of my past bus trips, including details like routes taken, fellow passengers, and any feedback provided, for reference and record-keeping.*
+
+/////12. *As a passenger, I want the option to create or join groups for specific bus routes or destinations, making it easier to connect with like-minded travelers and potentially receive group discounts.*
+
+/////13. *As a passenger, I want to be informed about any promotions, discounts, or loyalty programs within the Blabla Bus Trip Pooling System, providing me with cost-saving opportunities for my travels.*
+
+14. *As a passenger, I want the ability to customize my profile within the Blabla Bus Trip Pooling System, including preferences such as preferred seat location or any dietary restrictions, for a more personalized experience.*
+
+15. *As a passenger, I want to have access to information about the amenities available on the bus, such as Wi-Fi, charging ports, or onboard entertainment, to choose trips that meet my comfort requirements.*
