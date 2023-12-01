@@ -21,11 +21,11 @@ User stories for a Swift Rider from the perspective of a driver:
 
 11. As a driver, I want the app to provide a secure and reliable payment system, so that I can receive payment from passengers without concerns about fraud or payment issues.
 
-12. As a driver, I want to be able to rate and provide feedback about passengers after each trip, so that I can contribute to building a trustworthy carpooling community.
+12. As a driver, I want to be able to rate and provide feedback about passengers after each trip, so that I can contribute to building a trustworthy swiftride community.
 
 13. As a driver, I want the app to provide information about the destination and any specific instructions from passengers, so that I can plan the drop-off accordingly.
 
-14. As a driver, I want to have access to customer support through the app in case of any issues or emergencies during a carpooling trip.
+14. As a driver, I want to have access to customer support through the app in case of any issues or emergencies during a swiftride trip.
 
 15. As a driver, I want the app to keep track of my earnings and provide detailed summaries for accounting purposes, so that I can easily manage my finances related to carpooling.
 
