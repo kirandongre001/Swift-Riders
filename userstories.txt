@@ -1,4 +1,4 @@
-User stories for a carpooling system from the perspective of a driver:
+User stories for a Swift Rider from the perspective of a driver:
 
 1. As a driver, I want to create a profile with my vehicle details, so that potential passengers can see information about my car before requesting a ride.
 
@@ -10,7 +10,7 @@ User stories for a carpooling system from the perspective of a driver:
 
 5. As a driver, I want to be able to set preferences for the gender or number of passengers I am willing to accept, so that I can feel more comfortable and in control of my carpooling experience.
 
-//6. As a driver, I want the app to provide real-time navigation and traffic information to optimize the route and ETA, so that I can efficiently pick up and drop off passengers.
+6. As a driver, I want the app to provide real-time navigation and traffic information to optimize the route and ETA, so that I can efficiently pick up and drop off passengers.
 
 7. As a driver, I want to have the flexibility to communicate with passengers through the app's messaging system, so that I can coordinate pick-up details and inform them about any delays.
 
@@ -30,7 +30,7 @@ User stories for a carpooling system from the perspective of a driver:
 
 15. As a driver, I want the app to keep track of my earnings and provide detailed summaries for accounting purposes, so that I can easily manage my finances related to carpooling.
 
-These user stories cover various aspects of the carpooling experience for a driver, ensuring a seamless and user-friendly interaction with the carpooling system.
+These user stories cover various aspects of the Swift Rider experience for a driver, ensuring a seamless and user-friendly interaction with the carpooling system.
 
 
 
