@@ -1,12 +1,11 @@
 User stories for a Swift Rider from the perspective of a driver:
 
-1. As a driver, I want to create a profile with my vehicle details, so that potential passengers can see information about my car before requesting a ride.
+1. As a driver, I want to create a profile with my vehicle details, so that interested passengers can see information about my car before requesting a ride.
 
-2. As a driver, I want to set my availability and schedule in the app, so that I can plan my carpooling trips in advance.
+2. As a driver, I want to set my availability and schedule in the app, so that I can plan my swift ride trip in advance.
 
-3. As a driver, I want to receive ride requests with details about the potential passengers, their pick-up and drop-off locations, and the estimated fare, so that I can make informed decisions about accepting rides.
+3. As a driver, I want to receive ride requests with details about the interested passengers, their pick-up and drop-off locations, and the estimated fare, so that I can make informed decisions about accepting rides.
 
-4. As a driver, I want to have the option to review the ratings and feedback of potential passengers before accepting a ride, so that I can ensure a positive experience.
 
 5. As a driver, I want to be able to set preferences for the gender or number of passengers I am willing to accept, so that I can feel more comfortable and in control of my carpooling experience.
 
@@ -153,8 +152,8 @@ As a driver, I want to receive feedback and ratings from passengers after each c
 
 /////12. *As a passenger, I want the option to create or join groups for specific bus routes or destinations, making it easier to connect with like-minded travelers and potentially receive group discounts.*
 
-/////13. *As a passenger, I want to be informed about any promotions, discounts, or loyalty programs within the Blabla Bus Trip Pooling System, providing me with cost-saving opportunities for my travels.*
+13. As a passenger, I want to be informed about any promotions, discounts, or loyalty programs within the swift ride pooling System, providing me with cost-saving opportunities for my travels.*
 
-14. *As a passenger, I want the ability to customize my profile within the Blabla Bus Trip Pooling System, including preferences such as preferred seat location or any dietary restrictions, for a more personalized experience.*
+14. As a passenger, I want the ability to customize my profile within the swift ride System, including preferences such as preferred seat location or any dietary restrictions, for a more personalized experience.*
 
-15. *As a passenger, I want to have access to information about the amenities available on the bus, such as Wi-Fi, charging ports, or onboard entertainment, to choose trips that meet my comfort requirements.*
+15. As a passenger, I want to have access to information about the amenities available on the ride, such as Wi-Fi, charging ports, or onboard entertainment, to choose trips that meet my comfort requirements.*
