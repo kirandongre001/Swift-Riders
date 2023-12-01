@@ -17,7 +17,7 @@ User stories for a Swift Rider from the perspective of a driver:
 
 9. As a driver, I want to have the option to split the fare among passengers, so that the cost is shared fairly.
 
-10. As a driver, I want to receive notifications about potential passengers who are nearby and looking for a ride, so that I can proactively offer carpooling services.
+10. As a driver, I want to receive notifications about interested passengers who are nearby and looking for a ride, so that I can proactively offer swiftride services.
 
 11. As a driver, I want the app to provide a secure and reliable payment system, so that I can receive payment from passengers without concerns about fraud or payment issues.
 
