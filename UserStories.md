@@ -1,4 +1,0 @@
-### Tanmay
-### Kiran
-### Shubham
-### Prathmesh
