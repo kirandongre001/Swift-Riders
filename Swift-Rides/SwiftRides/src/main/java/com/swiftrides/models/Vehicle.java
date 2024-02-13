@@ -1,5 +1,5 @@
 package com.swiftrides.models;
-0
+
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import jakarta.persistence.Column;
@@ -109,6 +109,8 @@ public class Vehicle
 
 	public void setUsers(User users) {
 		this.users = users;
-	}	
+	}
+	
+	
 	
 }
