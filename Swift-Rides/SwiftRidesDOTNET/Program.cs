@@ -14,7 +14,7 @@ namespace SwiftRides
 
     builder.Services.AddSwaggerGen();
 
-    builder.Services.AddDbContext<CarpoolprojectContext>();
+    builder.Services.AddDbContext<SwiftRidesProjectContext>();
 
     builder.Services.AddControllers().AddJsonOptions(options =>
     {
