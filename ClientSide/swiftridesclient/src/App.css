@@ -13,26 +13,50 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+/* .App-header {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
+} */
+
+.Login h1 {
+  font-weight: bold;
 }
 
 .App-link {
   color: #61dafb;
 }
+.nav {
+  background-color: #4682a9;
+  color: #4682a9;
+  height: 70px;
+}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.RegUser {
+  display: flex;
+
+}
+
+.navigation {
+  background-color: #4682a9;
+  color: #4682a9;
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.navigation .navigation_item > a {
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+  font-size: medium;
+  font-weight: 600;
+  text-transform: uppercase;
 }
